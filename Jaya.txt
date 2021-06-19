@@ -1,0 +1,2 @@
+Teknologi Informasi dan Komunikasi” >> Jaya.txt
+echo Teknologi Informasi dan Komunikasi”
